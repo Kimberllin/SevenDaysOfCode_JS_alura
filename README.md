@@ -30,3 +30,4 @@ if (COMPARAR O numeroDez e a stringDez) {
 }
 </li>
 </ul>
+<a href='https://github.com/Kimberllin/SevenDaysOfCode_JS_alura/blob/main/L%C3%B3gica%20JS%201-7:%20Opera%C3%A7%C3%B5es%20Booleanas'> Solução </a>
