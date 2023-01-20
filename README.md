@@ -29,5 +29,24 @@ if (COMPARAR O numeroDez e a stringDez) {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }
 </li>
-</ul>
+
 <a href='https://github.com/Kimberllin/SevenDaysOfCode_JS_alura/blob/main/L%C3%B3gica%20JS%201-7:%20Opera%C3%A7%C3%B5es%20Booleanas'> Solução </a>
+
+<br>
+
+<li> <strong>Dia 2/7: Variáveis</strong> <br>
+Desenvolva um programa que deve pedir para o usuário responder 3 perguntas:
+
+- Qual o seu nome?
+- Quantos anos você tem?
+- Qual linguagem de programação você está estudando?
+
+À medida que as perguntas forem sendo feitas, a pessoa que estiver usando o programa deve responder cada uma delas.
+
+No final, o sistema vai exibir a mensagem:
+
+"Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!"
+</li>
+<a href='https://github.com/Kimberllin/SevenDaysOfCode_JS_alura/blob/main/L%C3%B3gica%20JS%201-7:%20Opera%C3%A7%C3%B5es%20Booleanas'> Solução </a>
+</ul>
+
