@@ -47,6 +47,6 @@ No final, o sistema vai exibir a mensagem:
 
 "Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!"
 </li>
-<a href='https://github.com/Kimberllin/SevenDaysOfCode_JS_alura/blob/main/L%C3%B3gica%20JS%201-7:%20Opera%C3%A7%C3%B5es%20Booleanas'> Solução </a>
+<a href='https://github.com/Kimberllin/SevenDaysOfCode_JS_alura/blob/main/L%C3%B3gica%20JS%202-7:%20Vari%C3%A1veis.js'> Solução </a>
 </ul>
 
